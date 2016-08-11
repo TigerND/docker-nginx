@@ -13,7 +13,7 @@ RUN ( \
 
 RUN ( \
         apt-get install -qy --no-install-recommends \
-            nginx \
+            nginx-full \
             geoip-database \
             geoip-database-extra \
     ) && \
