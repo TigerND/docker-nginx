@@ -1,5 +1,5 @@
 
-FROM ubuntu:16.04
+FROM teego/ubuntu:latest
 
 MAINTAINER Aleksandr Zykov <tiger@mano.email>
 
