@@ -1,5 +1,5 @@
 
-FROM teego/ubuntu:latest
+FROM teego/system:latest
 
 MAINTAINER Aleksandr Zykov <tiger@mano.email>
 
